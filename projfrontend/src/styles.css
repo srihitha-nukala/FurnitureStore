@@ -1,0 +1,37 @@
+.btn,
+.jumbotron,
+.nav :hover {
+  border-radius: 0px;
+}
+
+body {
+  background: #343a40;
+
+}
+.issue{
+  color:black;
+  font-weight:700;
+  padding:15px;
+  font-size:1rem;
+  margin-left:30%;
+  margin-right:30%;
+}
+.active:hover{
+  color:#fcfcfc;
+ }
+
+.admin{
+  background-color:#9F2BC1;
+}
+.buttons {
+  width: 200px;
+  margin: 0 auto;
+  display: inline;}
+.action_btn{
+  width: 200px;
+margin: 0 auto;
+display: inline;
+}
+.heading{
+  color:#9F2BC1;
+}
